@@ -1,0 +1,14 @@
+﻿build.log
+bin/
+obj/
+packages/
+*.DotSettings
+*.suo
+*.user
+*.orig
+_ReSharper*
+OperatorRating/*
+.vs
+*.tmp_proj
+launchSettings.json
+.idea/
