@@ -1,0 +1,16 @@
+﻿{
+  "Apis": [
+    {
+      "Name": "RandomAPI",
+      "Address": "http://service:1234",
+      "BasePath": "",
+      "MethodsMapping": []
+    }
+  ],
+  "Databases": [
+    {
+      "Name": "SomeDb",
+      "ConnectionString": "data source=dbserver\\dbname;initial catalog=SomeService_Test;integrated security=True;MultipleActiveResultSets=True;Application Name=Flexo.SpecFlowSomeServiceTesting"
+    }
+  ]
+}

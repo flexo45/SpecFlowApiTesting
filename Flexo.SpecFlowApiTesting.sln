@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flexo.SpecFlowApiTesting", "Flexo.SpecFlowApiTesting\Flexo.SpecFlowApiTesting.csproj", "{161A24CC-AF71-4C47-9817-53B26F4302D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flexo.SpecFlowApiTesting.Examples", "Flexo.SpecFlowApiTesting.Examples\Flexo.SpecFlowApiTesting.Examples.csproj", "{F4018F61-9608-4EBD-BC86-0F0A60A29390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{161A24CC-AF71-4C47-9817-53B26F4302D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161A24CC-AF71-4C47-9817-53B26F4302D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161A24CC-AF71-4C47-9817-53B26F4302D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161A24CC-AF71-4C47-9817-53B26F4302D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4018F61-9608-4EBD-BC86-0F0A60A29390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4018F61-9608-4EBD-BC86-0F0A60A29390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4018F61-9608-4EBD-BC86-0F0A60A29390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4018F61-9608-4EBD-BC86-0F0A60A29390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD8F6134-6691-4B5E-89D8-454E222AF3F7}
+	EndGlobalSection
+EndGlobal

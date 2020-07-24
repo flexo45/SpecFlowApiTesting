@@ -1,0 +1,17 @@
+﻿{
+  "language": {
+    "feature": "ru-RU",
+    "tool": "ru-RU"
+  },
+  "bindingCulture": {
+    "name": "ru-RU"
+  },
+  "unitTestProvider": {
+    "name": "xunit"
+  },
+  "stepAssemblies": [
+    {
+      "assembly": "Flexo.SpecFlowApiTesting"
+    }
+  ]
+}
